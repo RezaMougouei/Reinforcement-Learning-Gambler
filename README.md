@@ -7,6 +7,8 @@ This repository contains a full implementation of a **4‑arm restless bandit ta
 
 The environment reads from a CSV file with four drifting reward distributions (“Machine 1–4”) and simulates 150 trials per run.
 
+The goal of this project was to show how Q-Learning can be implemented in decision making and to show how it differentiates from random decision making.
+
 ---
 
 ## 📁 Project Structure
